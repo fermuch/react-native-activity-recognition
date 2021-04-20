@@ -1,5 +1,6 @@
 # react-native-activity-recognition
-This is a fork of https://github.com/Aminoid/react-native-activity-recognition#readme. I am fixing this for rn0.60+
+This is a fork of https://github.com/Aminoid/react-native-activity-recognition#readme. I've updated it to work for rn0.60+
+All credits to original authors.
 
 [![npm version][npm shield]][npm url]
 
