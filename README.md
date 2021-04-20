@@ -1,5 +1,6 @@
 # react-native-activity-recognition
 This is a fork of https://github.com/Aminoid/react-native-activity-recognition#readme. I am fixing this for rn0.60+
+
 [![npm version][npm shield]][npm url]
 
 React Native wrapper for the [Android Activity Recognition API][1] and [CMMotionActivity][3]. It attempts to determine the user activity such as
